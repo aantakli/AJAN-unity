@@ -1,0 +1,18 @@
+## Ignore Visual Studio temporary files and build results
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+Build/
+obj/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# NuGet Packages Directory
+packages/*
